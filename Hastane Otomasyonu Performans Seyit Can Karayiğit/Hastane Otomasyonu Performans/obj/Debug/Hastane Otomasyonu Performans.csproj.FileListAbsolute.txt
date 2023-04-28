@@ -1,0 +1,8 @@
+C:\Users\sony\Desktop\Hastane Otomasyonu Performans\Hastane Otomasyonu Performans\bin\Debug\Hastane Otomasyonu Performans.exe.config
+C:\Users\sony\Desktop\Hastane Otomasyonu Performans\Hastane Otomasyonu Performans\bin\Debug\Hastane Otomasyonu Performans.exe
+C:\Users\sony\Desktop\Hastane Otomasyonu Performans\Hastane Otomasyonu Performans\bin\Debug\Hastane Otomasyonu Performans.pdb
+C:\Users\sony\Desktop\Hastane Otomasyonu Performans\Hastane Otomasyonu Performans\obj\Debug\Hastane Otomasyonu Performans.csproj.AssemblyReference.cache
+C:\Users\sony\Desktop\Hastane Otomasyonu Performans\Hastane Otomasyonu Performans\obj\Debug\Hastane Otomasyonu Performans.csproj.SuggestedBindingRedirects.cache
+C:\Users\sony\Desktop\Hastane Otomasyonu Performans\Hastane Otomasyonu Performans\obj\Debug\Hastane Otomasyonu Performans.csproj.CoreCompileInputs.cache
+C:\Users\sony\Desktop\Hastane Otomasyonu Performans\Hastane Otomasyonu Performans\obj\Debug\Hastane Otomasyonu Performans.exe
+C:\Users\sony\Desktop\Hastane Otomasyonu Performans\Hastane Otomasyonu Performans\obj\Debug\Hastane Otomasyonu Performans.pdb
